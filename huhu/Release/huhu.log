@@ -1,0 +1,11 @@
+﻿  huhu.cpp
+huhu.cpp(23): warning C4101: 'sql2' : unreferenced local variable
+huhu.cpp(22): warning C4101: 'rc1' : unreferenced local variable
+huhu.cpp(23): warning C4101: 'sql1' : unreferenced local variable
+huhu.cpp(23): warning C4101: 'sql' : unreferenced local variable
+huhu.cpp(23): warning C4101: 'sql3' : unreferenced local variable
+huhu.cpp(22): warning C4101: 'rc2' : unreferenced local variable
+  Generating code
+c:\users\justin\desktop\huhu\huhu\huhu.cpp(47): warning C4700: uninitialized local variable 'rc3' used
+  Finished generating code
+  huhu.vcxproj -> C:\Users\justin\Desktop\huhu\Release\huhu.exe
